@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+p{
+    font-size: 40px;
+    font-weight: 500;
+}
+button{
+    padding: 25px 60px;
+    background-color: blue;
+    color: #FFF;
+    font-size: 20px;
+}
+button:hover{
+    background-color: darkcyan;
+    cursor: pointer;
+}
